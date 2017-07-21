@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+    /*opacity: .9;*/
+    background-image: url("https://s3.amazonaws.com/i.seelio.com/f3/b3/f3b38e0625012600f8c71693e75443dc526c.jpg");
+}
+#startPop{
+border: 2px dashed black;
+border-radius: 5px;
+width:50%;
+height:300px;
+margin-left:25%;
+margin-right:25%;
+margin-top:10%;
+color: black;
+background-color: white;
+}
+h1{
+font-family: Courier New, Courier, monospace;
+margin-top: 5%;
+margin-left: 30%;
+margin-right: 10%;
+}
+
+#readyButton{
+height: 5em;
+width:150px;
+margin-left: 40%;
+margin-top: 10%;
+border: 2px dashed white;
+background-color: black;
+color:white;
+}
+
+#readyButton:hover{
+    transform: scale(1.2);
+}
+
+h2{
+    margin-left:2em;
+}
+
+a{
+    text-decoration: none;
+}
