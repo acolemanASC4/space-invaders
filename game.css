@@ -1,5 +1,13 @@
-body{
-    border: 2px dashed white;
-    border-radius: 5px;
-    background-color: black;
+
+body {
+  margin: 0;
+  display: flex;
+
+  /* This centers our sketch horizontally. */
+  justify-content: center;
+
+  /* This centers our sketch vertically. */
+  align-items: center;
+  background-color: black;
+  border: 2px dashed white;
 }
